@@ -971,7 +971,7 @@ p {
 
 .privacy-policy-checkbox:checked + label .privacy-policy-fake-checkbox {
   background-color: var(--button-active);
-  fill: var(--background-white);
+  fill: #f4f4fd;
   border: none;
 }
 
