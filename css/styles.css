@@ -801,7 +801,8 @@ p {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-close-button:hover {
+.modal-close-button:hover,
+.modal-close-button:focus {
   border: none;
   background-color: var(--button-hover);
 }
