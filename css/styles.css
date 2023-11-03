@@ -970,7 +970,7 @@ p {
 }
 
 .privacy-policy-checkbox:checked + label .privacy-policy-fake-checkbox {
-  background-color: var(--background-accent);
+  background-color: var(--button-active);
   fill: var(--background-white);
   border: none;
 }
